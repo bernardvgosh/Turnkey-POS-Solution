@@ -1,4 +1,5 @@
 # 🛍️ Turnkey POS Solution: Real-time Data & The Force to Take It With Us
+<img src="/Images/Main.png">
 
 Monitor operational and financial performance at a glance and grow your stores with peace of mind.
 
