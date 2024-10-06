@@ -30,7 +30,12 @@ Our POS combines the strengths of traditional POS and cloud-based systems. It fe
 ---
 
 ## 📱 App Preview
-
+<img src="/Images/Feature1.png">
+<img src="/Images/Feature2.png">
+<img src="/Images/Feature3.png">
+<img src="/Images/Feature4.png">
+<img src="/Images/Feature5.png">
+<img src="/Images/Feature6.png">
 
 ---
 
